@@ -1,12 +1,12 @@
-SmartTarget
+**SmartTarget**
 
 FFXI Windower Addon
 
-DISCLAIMER:
+**DISCLAIMER:**
 
 This addon is a third-party tool designed for use with Final Fantasy XI. Use it at your own risk. The creator of this addon is not affiliated with Square Enix and is not responsible for any consequences arising from its use, including but not limited to violations of the game’s terms of service, account penalties, or unintended game behavior. By using this addon, you acknowledge and accept any potential risks involved.
 
-DESCRIPTION:
+**DESCRIPTION:**
 
 The SmartTarget addon is a tool to quickly target monsters by name(or partial name), by direct id, or by the hex index/id.
 
@@ -16,7 +16,7 @@ The having trouble tabbing through the 18 players in your alliance to target the
 
 Need to figure out which of those spiders is Ankbut's real placeholder, and you only know its id is 17137701 or its hex ID/Index is 25?  //t  17137701 or //t id 25
 
-INSTRUCTIONS:
+**INSTRUCTIONS:**
 
 In the windower console;
 
