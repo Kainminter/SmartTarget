@@ -16,6 +16,13 @@ The having trouble tabbing through the 18 players in your alliance to target the
 
 Need to figure out which of those spiders is Ankbut's real placeholder, and you only know its id is 17137701 or its hex ID/Index is 25?  //t  17137701 or //t id 25
 
+**KNOWN ISSUES:**
+
+Some targets are immune to targetting via SmartTarget for unknown reasons.
+
+Some known examples include the Einherjar Lamp NPC and Oboro in Port Jeuno.
+
+
 **INSTRUCTIONS:**
 
 In the windower console;
