@@ -10,12 +10,6 @@ This addon is a third-party tool designed for use with Final Fantasy XI. Use it 
 
 The SmartTarget addon is a tool to quickly target monsters by name(or partial name), by direct id, or by the hex index/id.
 
-Ever find yourself in a never ending battle with the tab key trying to target that pesky Aurix? //t Aurix
-
-The having trouble tabbing through the 18 players in your alliance to target the ??? you need to pop the nm? //t ???
-
-Need to figure out which of those spiders is Ankbut's real placeholder, and you only know its id is 17137701 or its hex ID/Index is 25?  //t  17137701 or //t id 25
-
 **KNOWN ISSUES:**
 
 Some targets are immune to targetting via SmartTarget for unknown reasons.
